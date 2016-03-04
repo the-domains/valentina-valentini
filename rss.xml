@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Valentina Valentini]]></title>
         <description><![CDATA[Valentina Valentini]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/valentina-valentini/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:41:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 22:41:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/valentina-valentini/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jason Segel & Olivia Munn at "Nerd Oscars"]]></title>
+            <description><![CDATA[<article><h1>Jason Segel & Olivia Munn at "Nerd Oscars"</h1><p>The Science and Technology Academy Awards don't have the paparazzi or feverish media attention that those other Academy Awards have, but they do have the actual magic that makes Hollywood run.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36b40e6c2de2784dc697e2ffde205a39d2f07a0f.jpg"></article>]]></description>
+            <link>http://www.vanityfair.com/hollywood/2016/02/science-technology-oscars-jason-segel-olivia-munn?mbid=social_facebook</link>
+            <guid isPermaLink="false">8922ef2f-7028-4829-9dd1-6e2fe650428f</guid>
+            <pubDate>Fri, 04 Mar 2016 22:40:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Diego Luna's Fearless Journey]]></title>
             <description><![CDATA[<article><h1>Diego Luna's Fearless Journey</h1><p>At once, Diego Luna feels like an old friend and an untouchable visionary. The combination of humility and intellect is disarming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc8f6664d8624f637729771f0d1953909e96b16b.jpg"></article>]]></description>
