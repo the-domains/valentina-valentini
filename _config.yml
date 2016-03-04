@@ -1,6 +1,6 @@
 name: Valentina Valentini
 favicon: null
-layout_spectrum: 0.7140564075671136
+layout_spectrum: 0.7563
 typography_spectrum: 0.46089
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#2e1c10'
     - '#564535'
   brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.9023848336655647
+  lightness: 0.75
+  saturation: 0.6875
   rhythmicContrast: 0.16848869970999658
 purpose: []
