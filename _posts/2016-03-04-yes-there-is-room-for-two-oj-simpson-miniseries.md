@@ -17,8 +17,8 @@ keywords:
   - crime
   - episodes
 description: 'Around the second episode of O.J.: Made in America, you may think to yourself, "Not much has changed in 22 years." Football players are still American heroes, celebrity scandals monopolize the media, black people are still being unfairly shot, prosecuted and persecuted, and rich people still get away with... murder?'
-datePublished: '2016-03-04T23:06:53.219Z'
-dateModified: '2016-03-04T23:06:29.923Z'
+datePublished: '2016-03-04T23:43:51.420Z'
+dateModified: '2016-03-04T23:43:44.613Z'
 author:
   - name: Valentina Valentini
     url: 'http://www.vanityfair.com/contributor/valentina-valentini'
@@ -26,14 +26,14 @@ author:
 related: []
 app_links: []
 title: 'Yes, There Is Room for Two O.J. Simpson Miniseries'
+sourcePath: _posts/2016-03-04-yes-there-is-room-for-two-oj-simpson-miniseries.md
+published: true
 authors: []
 publisher:
   name: Vanity Fair
   domain: www.vanityfair.com
   url: 'http://www.vanityfair.com'
   favicon: 'http://www.vanityfair.com/favicon.ico'
-sourcePath: _posts/2016-03-04-yes-there-is-room-for-two-oj-simpson-miniseries.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
