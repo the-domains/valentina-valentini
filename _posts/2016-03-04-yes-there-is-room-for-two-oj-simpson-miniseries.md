@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.vanityfair.com/hollywood/2016/01/oj-made-in-america-review'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - crime
   - episodes
 description: 'Around the second episode of O.J.: Made in America, you may think to yourself, "Not much has changed in 22 years." Football players are still American heroes, celebrity scandals monopolize the media, black people are still being unfairly shot, prosecuted and persecuted, and rich people still get away with... murder?'
-datePublished: '2016-03-04T23:43:51.420Z'
-dateModified: '2016-03-04T23:43:44.613Z'
+datePublished: '2016-03-23T16:03:38.314Z'
+dateModified: '2016-03-22T23:45:53.911Z'
 author:
   - name: Valentina Valentini
     url: 'http://www.vanityfair.com/contributor/valentina-valentini'
@@ -34,6 +33,7 @@ publisher:
   domain: www.vanityfair.com
   url: 'http://www.vanityfair.com'
   favicon: 'http://www.vanityfair.com/favicon.ico'
+url: yes-there-is-room-for-two-oj-simpson-miniseries/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
