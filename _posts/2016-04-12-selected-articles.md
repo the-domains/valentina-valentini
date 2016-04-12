@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "selected articles\_"
-datePublished: '2016-04-12T23:27:24.425Z'
-dateModified: '2016-04-12T23:27:23.963Z'
+datePublished: '2016-04-12T23:49:44.213Z'
+dateModified: '2016-04-12T23:49:40.335Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-selected-articles.md
