@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "valentina valentini \_|| \_writer"
-datePublished: '2016-04-12T23:44:34.873Z'
-dateModified: '2016-04-12T23:44:27.160Z'
+datePublished: '2016-04-12T23:50:50.051Z'
+dateModified: '2016-04-12T23:46:20.986Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-12-valentina-valentini-or-writer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-valentina-valentini-or-writer.md
-published: true
 url: valentina-valentini-or-writer/index.html
 _type: Article
 
