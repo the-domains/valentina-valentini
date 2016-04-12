@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Journalist]]></title>
+        <description><![CDATA[Journalist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 23:45:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c2073f2-e19c-4288-8170-babc93cc67b3.jpg">]]></description>
+            <link>undefinedvalentina-valentini-or-writer/index.html</link>
+            <guid isPermaLink="false">863308f1-620f-48af-baa7-7b97b73be570</guid>
+            <pubDate>Tue, 12 Apr 2016 23:44:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
