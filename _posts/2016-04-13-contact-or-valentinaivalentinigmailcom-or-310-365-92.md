@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "contact \_|| \_valentina.i.valentini@gmail.com \_|| \_310-365-9200 \_|| \_@tiniv"
-datePublished: '2016-04-13T00:23:31.787Z'
-dateModified: '2016-04-13T00:23:09.866Z'
+datePublished: '2016-04-13T00:25:02.611Z'
+dateModified: '2016-04-13T00:23:34.280Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-contact-or-valentinaivalentinigmailcom-or-310-365-92.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-contact-or-valentinaivalentinigmailcom-or-310-365-92.md
-published: true
 url: contact-or-valentinaivalentinigmailcom-or-310-365-92/index.html
 _type: Article
 
