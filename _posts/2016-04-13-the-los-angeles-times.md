@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: select articles
-datePublished: '2016-04-19T20:28:59.252Z'
-dateModified: '2016-04-13T00:30:17.131Z'
+datePublished: '2016-04-19T20:56:38.127Z'
+dateModified: '2016-04-19T20:29:10.023Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-the-los-angeles-times.md
