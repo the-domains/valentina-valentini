@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: THE LOS ANGELES TIMES/
-datePublished: '2016-04-13T00:16:16.128Z'
-dateModified: '2016-04-13T00:16:06.404Z'
+description: select articles
+datePublished: '2016-04-19T20:28:59.252Z'
+dateModified: '2016-04-13T00:30:17.131Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-13-the-los-angeles-times.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-the-los-angeles-times.md
-published: true
 url: the-los-angeles-times/index.html
 _type: WebPage
 
