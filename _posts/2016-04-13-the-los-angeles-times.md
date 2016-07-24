@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-24T08:48:02.593Z'
+datePublished: '2016-07-24T08:49:49.984Z'
 sourcePath: _posts/2016-04-13-the-los-angeles-times.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-24T08:48:02.134Z'
+dateModified: '2016-07-24T08:49:49.889Z'
 title: ''
 publisher: {}
 description: select articles
