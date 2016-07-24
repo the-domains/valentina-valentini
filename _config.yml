@@ -1,20 +1,4 @@
-name: Valentina Valentini
-favicon: null
-layout_spectrum: 0.24874
 typography_spectrum: 0.46089
-title: Journalist
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#cdd9d7'
@@ -26,4 +10,20 @@ color:
   lightness: 0.75
   saturation: 0.6875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24874
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Valentina Valentini
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Journalist
 purpose: []
