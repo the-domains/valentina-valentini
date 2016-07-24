@@ -1,17 +1,18 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: select articles
-datePublished: '2016-06-26T12:04:29.507Z'
-dateModified: '2016-06-26T12:04:29.130Z'
-title: ''
-author: []
+datePublished: '2016-07-24T08:48:02.593Z'
 sourcePath: _posts/2016-04-13-the-los-angeles-times.md
+inFeed: false
 authors: []
-publisher: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-07-24T08:48:02.134Z'
+title: ''
+publisher: {}
+description: select articles
+inLanguage: null
+inNav: true
 starred: false
 url: select-articles/index.html
 _type: WebPage
