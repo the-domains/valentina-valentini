@@ -31,6 +31,9 @@ navigation:
   - name: contact
     id: fb27039c-a588-4a6e-8de3-d1460a572a05
     type: content
+  - name: select articles
+    id: ece5e98a-fd8f-4a96-9c91-d14c6b8b5eba
+    type: content
 favicon: null
 title: Journalist
 purpose: []
