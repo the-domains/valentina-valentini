@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: about
+    id: 688d3ef9-9eed-41ab-b7ea-dbde75bd7e26
+    type: content
 favicon: null
 title: Journalist
 purpose: []
